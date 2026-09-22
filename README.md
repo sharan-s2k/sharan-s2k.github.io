@@ -1,1 +1,0 @@
-# sharan-s2k.github.io
