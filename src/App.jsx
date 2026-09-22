@@ -452,11 +452,6 @@ function App() {
                     <span>sharan2k@uw.edu</span>
                   </a>
 
-                  <a className="contact-link" href="tel:+14252196032">
-                    <span>Phone</span>
-                    <span>(425) 219-6032</span>
-                  </a>
-
                   <a
                     className="contact-link"
                     href="https://www.linkedin.com/in/s-sharan"
